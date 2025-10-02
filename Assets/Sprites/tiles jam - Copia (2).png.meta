@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 6e696d7ceb7205d4e9aa1d8316ecf7c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1735854634493069816
+    second: tiles jam - Copia (2)_0
+  - first:
+      213: -7861259936883410123
+    second: tiles jam - Copia (2)_1
+  - first:
+      213: -8334908352606074796
+    second: tiles jam - Copia (2)_2
+  - first:
+      213: -1783816749700458351
+    second: tiles jam - Copia (2)_3
+  - first:
+      213: -5752791000599478624
+    second: tiles jam - Copia (2)_4
+  - first:
+      213: -3231394284639498505
+    second: tiles jam - Copia (2)_5
+  - first:
+      213: 5506674708970450700
+    second: tiles jam - Copia (2)_6
+  - first:
+      213: 3748407897312933177
+    second: tiles jam - Copia (2)_7
+  - first:
+      213: 4599670065605389019
+    second: tiles jam - Copia (2)_8
+  - first:
+      213: 7130759152675721722
+    second: tiles jam - Copia (2)_9
+  - first:
+      213: 3319673298189142080
+    second: tiles jam - Copia (2)_10
+  - first:
+      213: -2420150638309610167
+    second: tiles jam - Copia (2)_11
+  - first:
+      213: 837844830863484490
+    second: tiles jam - Copia (2)_12
+  - first:
+      213: -2894194187114556173
+    second: tiles jam - Copia (2)_13
+  - first:
+      213: -3928585030154389698
+    second: tiles jam - Copia (2)_14
+  - first:
+      213: -1299071285375020640
+    second: tiles jam - Copia (2)_15
+  - first:
+      213: -7957260163483436565
+    second: tiles jam - Copia (2)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 163
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9cca6d79ef61810800000000000000
+      internalID: 1735854634493069816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 163
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bfd07fcb137e290800000000000000
+      internalID: -7861259936883410123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 131
+        width: 82
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588a777305745c80800000000000000
+      internalID: -8334908352606074796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 124
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19856b10e1c9e37e0800000000000000
+      internalID: -1783816749700458351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 124
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3436801bf920b0800000000000000
+      internalID: -5752791000599478624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 131
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fec5dec408c723d0800000000000000
+      internalID: -3231394284639498505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fafc1e873ab6c40800000000000000
+      internalID: 5506674708970450700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9353b986f15050430800000000000000
+      internalID: 3748407897312933177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 18.5}
+        - {x: -4, y: 18.5}
+        - {x: -4, y: -18.5}
+        - {x: 4, y: -18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda2868fd8f45df30800000000000000
+      internalID: 4599670065605389019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 83
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af11a124bab85f260800000000000000
+      internalID: 7130759152675721722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 83
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c9ecb649d11e20800000000000000
+      internalID: 3319673298189142080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 98
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dee9421d5e96ed0800000000000000
+      internalID: -2420150638309610167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46e3804f6f90ab00800000000000000
+      internalID: 837844830863484490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 46
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4590e88b1c5d7d0800000000000000
+      internalID: -2894194187114556173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37fab7cabcda79c0800000000000000
+      internalID: -3928585030154389698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 19
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1df497c85c8fde0800000000000000
+      internalID: -1299071285375020640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles jam - Copia (2)_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 19
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f33a6a02229190800000000000000
+      internalID: -7957260163483436565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0b2241a6a687db48865060db574c451
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiles jam - Copia (2)_0: 1735854634493069816
+      tiles jam - Copia (2)_1: -7861259936883410123
+      tiles jam - Copia (2)_10: 3319673298189142080
+      tiles jam - Copia (2)_11: -2420150638309610167
+      tiles jam - Copia (2)_12: 837844830863484490
+      tiles jam - Copia (2)_13: -2894194187114556173
+      tiles jam - Copia (2)_14: -3928585030154389698
+      tiles jam - Copia (2)_15: -1299071285375020640
+      tiles jam - Copia (2)_16: -7957260163483436565
+      tiles jam - Copia (2)_2: -8334908352606074796
+      tiles jam - Copia (2)_3: -1783816749700458351
+      tiles jam - Copia (2)_4: -5752791000599478624
+      tiles jam - Copia (2)_5: -3231394284639498505
+      tiles jam - Copia (2)_6: 5506674708970450700
+      tiles jam - Copia (2)_7: 3748407897312933177
+      tiles jam - Copia (2)_8: 4599670065605389019
+      tiles jam - Copia (2)_9: 7130759152675721722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
